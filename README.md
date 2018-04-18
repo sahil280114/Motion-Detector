@@ -3,4 +3,6 @@ Python program that uses openCV to monitor movement and then plot a graph of the
 
 Run <pre>python plotting.py</pre>
 
-Dependencies <pre>pandas</pre><pre>openCV</pre><pre>bokeh</pre>
+Dependencies <pre>pandas 
+openCV 
+bokeh</pre>
